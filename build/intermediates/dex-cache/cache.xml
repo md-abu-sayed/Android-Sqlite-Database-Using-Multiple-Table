@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android Project\AndroidSqliteDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72c6a1c149afeb8adfb0ebcb31cbd6bd44b235d4">
+        <dex dex="G:\Android Project\AndroidSqliteDatabase\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_71ac5985382a6a3039c3805878053ca1ecfe6d50.jar" />
+    </item>
+
+</items>
